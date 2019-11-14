@@ -1,0 +1,7 @@
+.chalice/venv/
+.chalice/deployments/
+.chalice/venv/
+chalicelib/__pycache__/
+chalicelib/*.iml
+__pycache__/
+
